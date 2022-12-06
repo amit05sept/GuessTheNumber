@@ -117,3 +117,25 @@ h1 {
 .label-score {
   margin-bottom: 2rem;
 }
+
+
+@media only screen and (max-width:700px){
+
+  h1{
+    font-size: 3rem;
+  }
+
+  .between{
+    font-size: 1rem;
+  }
+  
+  main{
+    flex-wrap: wrap-reverse;
+  }
+  .right .message{
+    margin-top: 5rem;
+    margin-bottom: 0rem;
+    height: 9rem;
+    text-align: center;
+  }
+}
