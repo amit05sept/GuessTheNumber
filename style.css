@@ -138,4 +138,9 @@ h1 {
     height: 9rem;
     text-align: center;
   }
+  .left{
+    flex-direction: row;
+    justify-contents: space-between;
+  }
+  
 }
