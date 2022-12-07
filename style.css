@@ -140,7 +140,7 @@ h1 {
   }
   .left{
     flex-direction: row;
-    justify-contents: space-between;
+    justify-content: space-between;
   }
   
 }
